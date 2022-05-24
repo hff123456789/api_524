@@ -1,0 +1,57 @@
+{
+  "uid" : "e038d31c04fc06a0",
+  "name" : "test_search_service1",
+  "fullName" : "test_debug.TestDebug#test_search_service1",
+  "historyId" : "23e1e9b53fd813c2dd23d26ff13ddcc1",
+  "time" : {
+    "start" : 1653010219960,
+    "stop" : 1653010630724,
+    "duration" : 410764
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_debug"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDebug"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "20308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_debug"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e038d31c04fc06a0.json",
+  "parameterValues" : [ ]
+}

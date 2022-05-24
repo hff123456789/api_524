@@ -1,0 +1,58 @@
+{
+  "uid" : "64df671656f11506",
+  "name" : "创建终端",
+  "fullName" : "test_debug.TestDebug#test_TERM",
+  "historyId" : "a61141d035f756e82ef545626a7615db",
+  "time" : {
+    "start" : 1652931173434,
+    "stop" : 1652931174080,
+    "duration" : 646
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "终端"
+  }, {
+    "name" : "suite",
+    "value" : "test_debug"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDebug"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "18844-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_debug"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64df671656f11506.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,63 @@
+{
+  "uid" : "f90f741184a7d68",
+  "name" : "新增服务-参数校验",
+  "fullName" : "test_case.TestCase#test_creat_services",
+  "historyId" : "d7529e9cc5879814a6495f125aa95a36",
+  "time" : {
+    "start" : 1653010217737,
+    "stop" : 1653010217873,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "服务"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "20308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "playload",
+    "value" : "{'name': 'abc123@!', 'desc': 123456, 'errcode': 21055, 'errmsg': '仅支持中文、英文大小字母、英文下划线\"_\"、英文横线\"-\"和数字，不能以\"_\"开头，长度不大于128个字符'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f90f741184a7d68.json",
+  "parameterValues" : [ "{'name': 'abc123@!', 'desc': 123456, 'errcode': 21055, 'errmsg': '仅支持中文、英文大小字母、英文下划线\"_\"、英文横线\"-\"和数字，不能以\"_\"开头，长度不大于128个字符'}" ]
+}

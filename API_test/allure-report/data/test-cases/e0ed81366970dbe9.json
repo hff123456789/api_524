@@ -1,0 +1,69 @@
+{
+  "uid" : "e0ed81366970dbe9",
+  "name" : "修改服务失败-重名",
+  "fullName" : "test_debug.TestDebug#test_update_service",
+  "historyId" : "cc1d0a2d2c61de71fa6097a5c5d4ee5e",
+  "time" : {
+    "start" : 1653010219387,
+    "stop" : 1653010219463,
+    "duration" : 76
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: Services.update_service() got an unexpected keyword argument 'playload'",
+  "statusTrace" : "self = <API_test.test_debug.TestDebug object at 0x000001B250466080>\n\n    @allure.feature(\"服务\")\n    @allure.story(\"修改服务服务\")\n    @allure.title(\"修改服务失败-重名\")\n    def test_update_service(self):\n        r1 = Services().search_services()\n        len1 = len(r1[\"data\"][\"results\"])\n        if len1 == 0:\n           r1= Services().creat_services()\n    \n>       r = Services().update_service(playload=[{\"name\":159,\"desc\":126},{\"name\":159,\"desc\":855}])\nE       TypeError: Services.update_service() got an unexpected keyword argument 'playload'\n\ntest_debug.py:92: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "修改服务服务"
+  }, {
+    "name" : "feature",
+    "value" : "服务"
+  }, {
+    "name" : "suite",
+    "value" : "test_debug"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDebug"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "20308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_debug"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e0ed81366970dbe9.json",
+  "parameterValues" : [ ]
+}

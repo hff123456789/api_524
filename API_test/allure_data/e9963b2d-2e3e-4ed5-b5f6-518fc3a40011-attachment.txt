@@ -1,0 +1,277 @@
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 2, 'results': [{'tid': 10300474, 'name': 'nO30Ifx5dYbuJjmKX1Gv', 'desc': 'JKzDOIcVb9vSoAgH7C2L', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300473, 'name': 'zyqpVMwkrCelX6BR5n8m', 'desc': 'kCuAxziBc6qyJdYvrNTE', 'locatetime': None, 'createtime': 1652928055000}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'sid': 10369, 'tid': 10300475, 'name': 'aMimgr0xqJoSwTdHB6LQ'}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 3, 'results': [{'tid': 10300475, 'name': 'aMimgr0xqJoSwTdHB6LQ', 'desc': 'UsETzQOR9NFgVnWc3Lk0', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300474, 'name': 'nO30Ifx5dYbuJjmKX1Gv', 'desc': 'JKzDOIcVb9vSoAgH7C2L', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300473, 'name': 'zyqpVMwkrCelX6BR5n8m', 'desc': 'kCuAxziBc6qyJdYvrNTE', 'locatetime': None, 'createtime': 1652928055000}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{"code":30011,"message":"服务响应失败","data":""}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 3, 'results': [{'tid': 10300475, 'name': 'aMimgr0xqJoSwTdHB6LQ', 'desc': 'UsETzQOR9NFgVnWc3Lk0', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300474, 'name': 'nO30Ifx5dYbuJjmKX1Gv', 'desc': 'JKzDOIcVb9vSoAgH7C2L', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300473, 'name': 'zyqpVMwkrCelX6BR5n8m', 'desc': 'kCuAxziBc6qyJdYvrNTE', 'locatetime': None, 'createtime': 1652928055000}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'trid': '1', 'trname': '轨迹123'}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 3, 'results': [{'tid': 10300475, 'name': 'aMimgr0xqJoSwTdHB6LQ', 'desc': 'UsETzQOR9NFgVnWc3Lk0', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300474, 'name': 'nO30Ifx5dYbuJjmKX1Gv', 'desc': 'JKzDOIcVb9vSoAgH7C2L', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300473, 'name': 'zyqpVMwkrCelX6BR5n8m', 'desc': 'kCuAxziBc6qyJdYvrNTE', 'locatetime': None, 'createtime': 1652928055000}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+10369 10300475 1
+0
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+1
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+2
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+3
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+4
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+5
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+6
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+7
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+8
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+9
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+10
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+11
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+12
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+13
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+14
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+15
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+16
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+17
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+18
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+19
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+20
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+21
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+22
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+23
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+24
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+25
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+26
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+27
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+28
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+29
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+30
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+31
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+32
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+33
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+34
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+35
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+36
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+37
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+38
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+39
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+40
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+41
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+42
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+43
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+44
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+45
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+46
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+47
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+48
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+49
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+50
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+51
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+52
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+53
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+54
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+55
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+56
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+57
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+58
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+59
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+60
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+61
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+62
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+63
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+64
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+65
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+66
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+67
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+68
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+69
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+70
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+71
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+72
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+73
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+74
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+75
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+76
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+77
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+78
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+79
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+10369 10300475 1
+80
+{'errcode': 0, 'errmsg': 'success', 'data': None}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 3, 'results': [{'tid': 10300475, 'name': 'aMimgr0xqJoSwTdHB6LQ', 'desc': 'UsETzQOR9NFgVnWc3Lk0', 'locatetime': 1652681302084, 'createtime': 1652928056000}, {'tid': 10300474, 'name': 'nO30Ifx5dYbuJjmKX1Gv', 'desc': 'JKzDOIcVb9vSoAgH7C2L', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300473, 'name': 'zyqpVMwkrCelX6BR5n8m', 'desc': 'kCuAxziBc6qyJdYvrNTE', 'locatetime': None, 'createtime': 1652928055000}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': None, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 3, 'results': [{'tid': 10300475, 'name': 'aMimgr0xqJoSwTdHB6LQ', 'desc': '修改终端12346', 'locatetime': 1652681302084, 'createtime': 1652928056000}, {'tid': 10300474, 'name': 'nO30Ifx5dYbuJjmKX1Gv', 'desc': 'JKzDOIcVb9vSoAgH7C2L', 'locatetime': None, 'createtime': 1652928056000}, {'tid': 10300473, 'name': 'zyqpVMwkrCelX6BR5n8m', 'desc': 'kCuAxziBc6qyJdYvrNTE', 'locatetime': None, 'createtime': 1652928055000}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': None, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 21054, 'data': None, 'errmsg': '名字已存在', 'errdetail': '名字已存在'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10369, 'name': 'tongtong594502', 'desc': '123456'}, {'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': None, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'results': [{'sid': 10376, 'name': 'tongtong602687', 'desc': '123456'}, {'sid': 10373, 'name': 'tongtong615988', 'desc': '123456'}, {'sid': 10377, 'name': 'tongtong734081', 'desc': '123456'}, {'sid': 10379, 'name': 'tongtong746364', 'desc': '123456'}, {'sid': 10382, 'name': 'tongtong815573', 'desc': '123456'}, {'sid': 10367, 'name': 'tongtong860627', 'desc': '123456'}, {'sid': 10366, 'name': 'tongtong897925', 'desc': '123456'}, {'sid': 10375, 'name': 'tongtong908700', 'desc': '123456'}, {'sid': 10368, 'name': 'tongtong947205', 'desc': '123456'}, {'sid': 10255, 'name': 'xxx', 'desc': ''}, {'sid': 10274, 'name': '整体测试流程', 'desc': '整体测试流程用'}, {'sid': 10272, 'name': '新的服务名字1', 'desc': '941def7a1b660ab0c3ed64fe31d293d664a0f705bbbf560932b510643b60d5bc16fce8a591f60b776fddbf2591b788cf8a98905e95c37a98087d6d94befbbca5'}, {'sid': 10297, 'name': '第一个服务', 'desc': ''}, {'sid': 10271, 'name': '黄秀英', 'desc': '5a8637ee0b0a8d612a3c6f74b7f6dec850d28132f0c3cb0fdcd48ca9dae0e15a9ae010f08e2a194d8370ae495f2ebc6b478d208e54cf0c30f6e653b5020526c6'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+{'errcode': 0, 'data': {'count': 0, 'results': []}, 'errmsg': '请求正常', 'errdetail': '请求正常'}

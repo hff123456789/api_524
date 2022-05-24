@@ -1,0 +1,74 @@
+{
+  "uid" : "86b8000e9fa22c60",
+  "name" : "test_creat_services[playload0]",
+  "fullName" : "test_debug.TestDebug#test_creat_services",
+  "historyId" : "2355b82b71779614826970c7a83c4cb7",
+  "time" : {
+    "start" : 1652757634682,
+    "stop" : 1652757634831,
+    "duration" : 149
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ccaf1bd2c122a0bc",
+      "name" : "stdout",
+      "source" : "ccaf1bd2c122a0bc.txt",
+      "type" : "text/plain",
+      "size" : 1015
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_debug"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDebug"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "17876-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_debug"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "playload",
+    "value" : "{'name': None, 'desc': 123455, 'errcode': 21051, 'errmsg': '缺少必填参数'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86b8000e9fa22c60.json",
+  "parameterValues" : [ "{'name': None, 'desc': 123455, 'errcode': 21051, 'errmsg': '缺少必填参数'}" ]
+}

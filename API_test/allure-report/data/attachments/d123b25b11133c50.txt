@@ -1,0 +1,4 @@
+{'errcode': 0, 'data': {'results': [{'sid': 10336, 'name': 'tongtong409466', 'desc': '123456'}, {'sid': 10331, 'name': 'tongtong460033', 'desc': '123456'}, {'sid': 10334, 'name': 'tongtong475657', 'desc': '123456'}, {'sid': 10338, 'name': 'tongtong655703', 'desc': '123456'}, {'sid': 10337, 'name': 'tongtong673524', 'desc': '123456'}, {'sid': 10333, 'name': 'tongtong682263', 'desc': '123456'}, {'sid': 10335, 'name': 'tongtong718615', 'desc': '123456'}, {'sid': 10332, 'name': 'tongtong932091', 'desc': '123456'}, {'sid': 10339, 'name': 'tongtong976909', 'desc': '123456'}, {'sid': 10329, 'name': '测试服务474646'}, {'sid': 10328, 'name': '测试服务619317'}, {'sid': 10330, 'name': '测试服务662032'}]}, 'errmsg': '请求正常', 'errdetail': '请求正常'}
+12
+{'name': 'tongtong343812', 'desc': 123456, 'errcode': 0, 'errmsg': '请求正常'}
+{'errcode': 0, 'data': {'sid': 10340, 'name': 'tongtong343812'}, 'errmsg': '请求正常', 'errdetail': '请求正常'}

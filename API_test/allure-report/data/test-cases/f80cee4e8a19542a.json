@@ -1,0 +1,60 @@
+{
+  "uid" : "f80cee4e8a19542a",
+  "name" : "调用多个接口",
+  "fullName" : "test_debug.TestDebug#test_search_service",
+  "historyId" : "b51876502932a9f6041f3487ae8213f6",
+  "time" : {
+    "start" : 1652931173435,
+    "stop" : 1652931214861,
+    "duration" : 41426
+  },
+  "status" : "broken",
+  "statusMessage" : "IndexError: list index out of range",
+  "statusTrace" : "self = <API_test.test_debug.TestDebug object at 0x000001F433987310>\n\n    @allure.feature(\"公共\")\n    @allure.title(\"调用多个接口\")\n    def test_search_service(self):\n      for i in(1,11):\n        r=Services().search_services()\n    \n        Services().cearte_termianl()\n        Services().search_track()\n        Services().track_upload()\n        Services().update_terminal()\n    \n        Services().update_service()\n        Services().delete_service()\n>       Services().search_KEY()\n\ntest_debug.py:53: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <API_test.services.Services object at 0x000001F4339CD0F0>\n\n    def search_KEY(self):\n        key = self.public_data()[\"params\"][\"key\"]\n        sid = self.search_services()[\"data\"][\"results\"][0][\"sid\"]\n    \n>       tid = self.search_termnial()[\"data\"][\"results\"][0][\"tid\"]\nE       IndexError: list index out of range\n\nservices.py:299: IndexError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "公共"
+  }, {
+    "name" : "suite",
+    "value" : "test_debug"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDebug"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "22836-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_debug"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f80cee4e8a19542a.json",
+  "parameterValues" : [ ]
+}

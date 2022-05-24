@@ -1,0 +1,361 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "TestCase",
+      "children" : [ {
+        "name" : "新增服务-参数校验",
+        "uid" : "53584e6c29ef198f",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652933109714,
+          "stop" : 1652933110038,
+          "duration" : 324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ "{'name': None, 'desc': 123455, 'errcode': 21051, 'errmsg': '缺少必填参数'}" ]
+      }, {
+        "name" : "新增服务-参数校验",
+        "uid" : "e128216820992648",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652933110040,
+          "stop" : 1652933110153,
+          "duration" : 113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ "{'name': 'abc123@!', 'desc': 123456, 'errcode': 21055, 'errmsg': '仅支持中文、英文大小字母、英文下划线\"_\"、英文横线\"-\"和数字，不能以\"_\"开头，长度不大于128个字符'}" ]
+      }, {
+        "name" : "新增服务-参数校验",
+        "uid" : "c9959ed8a296124c",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652933110155,
+          "stop" : 1652933110258,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 9,
+        "retriesStatusChange" : true,
+        "parameters" : [ "{'name': '#name#', 'desc': 123456, 'errcode': 0, 'errmsg': '请求正常'}" ]
+      }, {
+        "name" : "创建轨迹",
+        "uid" : "29c45ad18a4e484e",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010216284,
+          "stop" : 1653010217389,
+          "duration" : 1105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增服务-参数校验",
+        "uid" : "e4c81533b3fbb00f",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010217391,
+          "stop" : 1653010217733,
+          "duration" : 342
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': None, 'desc': 123455, 'errcode': 21051, 'errmsg': '缺少必填参数'}" ]
+      }, {
+        "name" : "新增服务-参数校验",
+        "uid" : "f90f741184a7d68",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010217737,
+          "stop" : 1653010217873,
+          "duration" : 136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': 'abc123@!', 'desc': 123456, 'errcode': 21055, 'errmsg': '仅支持中文、英文大小字母、英文下划线\"_\"、英文横线\"-\"和数字，不能以\"_\"开头，长度不大于128个字符'}" ]
+      }, {
+        "name" : "新增服务-参数校验",
+        "uid" : "9a76ff5db17c4fbf",
+        "parentUid" : "0b567c5de7a737087beb4beb55978d63",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010217876,
+          "stop" : 1653010217996,
+          "duration" : 120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': '#name#', 'desc': 123456, 'errcode': 0, 'errmsg': '请求正常'}" ]
+      } ],
+      "uid" : "0b567c5de7a737087beb4beb55978d63"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  }, {
+    "name" : "test_debug",
+    "children" : [ {
+      "name" : "TestDebug",
+      "children" : [ {
+        "name" : "创建终端",
+        "uid" : "bfa9bf05a73860a0",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652933110807,
+          "stop" : 1652933111162,
+          "duration" : 355
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 8,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "新增服务参数校验",
+        "uid" : "e31255776dca1ac9",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010218003,
+          "stop" : 1653010218409,
+          "duration" : 406
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ "{'name': None, 'desc': 123455, 'errcode': 21051, 'errmsg': '缺少必填参数'}" ]
+      }, {
+        "name" : "新增服务参数校验",
+        "uid" : "96f33de7784eaf7f",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010218412,
+          "stop" : 1653010218601,
+          "duration" : 189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ "{'name': 'abc123@!', 'desc': 123456, 'errcode': 21055, 'errmsg': '仅支持中文、英文大小字母、英文下划线\"_\"、英文横线\"-\"和数字，不能以\"_\"开头，长度不大于128个字符'}" ]
+      }, {
+        "name" : "新增服务参数校验",
+        "uid" : "75bb6e26795a808f",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010218605,
+          "stop" : 1653010218841,
+          "duration" : 236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ "{'name': '#name#', 'desc': 123456, 'errcode': 0, 'errmsg': '请求正常'}" ]
+      }, {
+        "name" : "新增服务最大值校验",
+        "uid" : "73b5898e458e00da",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010218845,
+          "stop" : 1653010218986,
+          "duration" : 141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_service",
+        "uid" : "7433edf3328683db",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010218989,
+          "stop" : 1653010219043,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "删除服务成功",
+        "uid" : "3979602c1873c5d2",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010219050,
+          "stop" : 1653010219384,
+          "duration" : 334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "修改服务失败-重名",
+        "uid" : "e0ed81366970dbe9",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653010219387,
+          "stop" : 1653010219463,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_creat_termianl",
+        "uid" : "6bf2ef34e1b67165",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653010219608,
+          "stop" : 1653010219783,
+          "duration" : 175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "查询终端",
+        "uid" : "9d5df221d451cfb3",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010219791,
+          "stop" : 1653010219956,
+          "duration" : 165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_service1",
+        "uid" : "e038d31c04fc06a0",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010219960,
+          "stop" : 1653010630724,
+          "duration" : 410764
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "关键字查找终端",
+        "uid" : "be62931b524c521e",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010630731,
+          "stop" : 1653010631005,
+          "duration" : 274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_districtsearc",
+        "uid" : "40f7839241c6baa8",
+        "parentUid" : "10a90fe6cbc38d420ceadbd39844078d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653010631012,
+          "stop" : 1653010631103,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "10a90fe6cbc38d420ceadbd39844078d"
+    } ],
+    "uid" : "d61f51d5aed21945ae797b595dfb157d"
+  } ],
+  "name" : "suites"
+}
