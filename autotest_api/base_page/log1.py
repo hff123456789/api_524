@@ -18,11 +18,11 @@
 #             enqueue=enqueue, rotation=rotation, retention=retention
 #         )
 #         return logger
-
-log = ApiAutoLog()
-
-if __name__ == '__main__':
-    log.debug("这是一条debug日志信息")
-    log.info("这是一条info日志信息")
-    log.warning("这是一条warning日志信息")
-    log.critical("这是一条critical日志信息")
+#
+# log = ApiAutoLog()
+#
+# if __name__ == '__main__':
+#     log.debug("这是一条debug日志信息")
+#     log.info("这是一条info日志信息")
+#     log.warning("这是一条warning日志信息")
+#     log.critical("这是一条critical日志信息")
