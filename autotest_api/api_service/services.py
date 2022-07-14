@@ -80,11 +80,12 @@ class Services(BaseApi):
         key = self.public_data()["params"]["key"]
         host = self.public_data()["params"]["host"]
         url = f"{host}/v1/track/service/list?key={key}"
-        headers = {"Content-Type": "application/json"}
+        #headers = {"Content-Type": "application/json"}
+        playload={"key":"76984a1ccba04ab8815a87d25f300fa2"}
 
         ir = BaseApi()
 
-        r = ir.run_method(url=url, headers=headers, method='post')
+        r = ir.run_method(url=url,json=playload, method='post')
 
 
 
