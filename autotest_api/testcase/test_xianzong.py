@@ -7,7 +7,7 @@ import yaml
 from autotest_api.api_service.services import Services
 from autotest_api.api_service.track_geofence import TrackGeofence
 from autotest_api.base_page.base_api import BaseApi
-from autotest_api.base_page.log1 import log
+#from autotest_api.base_page.log1 import log
 
 
 @allure.feature("仙踪服务")
@@ -69,7 +69,7 @@ class TestXianzong:
         errmsg=playload["errmsg"]
         allure.attach("用例参数", "{0}".format(playload))
         r=Services().creat_services(playload)
-        log.info("返回结果为：{}".format(r))
+        #log.info("返回结果为：{}".format(r))
         assert r["errcode"]==errcode
         assert r["errmsg"]==errmsg
 
@@ -86,7 +86,7 @@ class TestXianzong:
              r=Services().creat_services(playload={"name": Services().name_var()[0], "desc": "test123"})
 
         r = Services().creat_services(playload={"name": Services().name_var()[0], "desc": "test123"})
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         assert r['errcode'] == 21118
         assert r['errmsg'] in "超过service最大数量15"
 
@@ -97,7 +97,7 @@ class TestXianzong:
     @allure.title("查询服务")
     def test_search_service(self):
        r= Services().search_services()
-       log.info("返回结果为：{}".format(r))
+       #log.info("返回结果为：{}".format(r))
        assert r['errcode'] == 0
 
 
@@ -108,7 +108,7 @@ class TestXianzong:
     def test_delete_service(self,services_list):
 
         r=Services().delete_service()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         assert r['errcode']==0
 
     @allure.feature("服务")
@@ -118,7 +118,7 @@ class TestXianzong:
 
 
         r=Services().update_service()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r['errcode']==0
 
@@ -129,7 +129,7 @@ class TestXianzong:
     @allure.title("创建终端成功")
     def test_creat_termianl(self,services_list,terminals_list):
         r=Services().cearte_termianl()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == 0
         assert r["data"]["sid"] ==Services().search_services()["data"]["results"][0]["sid"]
@@ -140,7 +140,7 @@ class TestXianzong:
     @allure.title("查询sid下所有终端")
     def test_search_TERM(self,services_list):
         r=Services().search_termnial()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == 0
 
@@ -149,7 +149,7 @@ class TestXianzong:
     @allure.title("修改终端描述")
     def test_update_TERM(self,services_list,terminals_list):
         r = Services().update_terminal()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == 0
 
@@ -166,7 +166,7 @@ class TestXianzong:
     def test_creat_track(self,services_list,terminals_list):
 
         r = Services().creat_track()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         assert r["errcode"] == 0
 
     @allure.feature("轨迹")
@@ -175,7 +175,7 @@ class TestXianzong:
     def test_track_upload(self,services_list,terminals_list):
 
         r = Services().track_upload()
-        log.info("返回结果为：{}".format(r))
+        #log.info("返回结果为：{}".format(r))
         assert r["errcode"] == 0
 
     @allure.feature("轨迹")
@@ -185,7 +185,7 @@ class TestXianzong:
 
 
         r = Services().search_track()
-        log.info("返回结果为：{}".format(r))
+        #log.info("返回结果为：{}".format(r))
         assert r["errcode"] == 0
 
 
@@ -197,7 +197,7 @@ class TestXianzong:
 
 
         r = Services().terminal_lastpoint()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         assert r["errcode"] == 0
 
 
@@ -208,7 +208,7 @@ class TestXianzong:
     def test_keysearch(self,services_list,terminals_list):
 
         r = Services().search_KEY()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r["errcode"]==0
 
@@ -217,7 +217,7 @@ class TestXianzong:
     def test_polygonsearch(self,services_list):
 
         r = Services().polygonsearch()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == 0
 
@@ -226,7 +226,7 @@ class TestXianzong:
     def test_aroundsearch(self,services_list):
 
         r = Services().aroundsearch()
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         assert r["errcode"] == 0
 
     @allure.feature("搜索终端")
@@ -234,7 +234,7 @@ class TestXianzong:
     def test_districtsearch(self,services_list):
 
         r = Services().districtsearch()
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
         assert r["errcode"] == 0
 
 
@@ -251,7 +251,7 @@ class TestXianzong:
         errmsg=Services().geofence_data()['circle']['errmsg']
 
         r=TrackGeofence().add_circle(playload)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -268,7 +268,7 @@ class TestXianzong:
 
 
          r = TrackGeofence().add_polygon(playload)
-         log.info("返回结果为：{}".format(r))
+       #  log.info("返回结果为：{}".format(r))
 
 
          assert r['errorCode'] == errorCode
@@ -284,7 +284,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['polyline']['errmsg']
 
         r = TrackGeofence().add_polyline(playload)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
 
@@ -298,7 +298,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['district']['errmsg']
 
         r = TrackGeofence().add_district(playload)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
 
@@ -312,7 +312,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_list']['errmsg']
 
         r = TrackGeofence().geofence_list(playload)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -326,7 +326,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['updatecircle']['errmsg']
 
         r = TrackGeofence().update_circle(playload1)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
 
@@ -340,7 +340,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['updatepolygon']['errmsg']
 
         r = TrackGeofence().update_polygon(playload1)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -355,7 +355,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['updatepolyline']['errmsg']
 
         r = TrackGeofence().update_polyline(playload1)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
       
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -371,7 +371,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['updatedistrict']['errmsg']
 
         r = TrackGeofence().update_district(playload1)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -386,7 +386,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_delete']['errmsg']
 
         r = TrackGeofence().geofence_delete(playload)
-        log.info("返回结果为：{}".format(r))
+     #   log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -403,7 +403,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_bind']['errmsg']
 
         r = TrackGeofence().geofence_bind(playload1)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -417,7 +417,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_bindlist']['errmsg']
 
         r = TrackGeofence().geofence_bindlist(playload1)
-        log.info("返回结果为：{}".format(r))
+     #   log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -436,7 +436,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_terminal']['errmsg']
 
         r = TrackGeofence().geofence_terminal(data)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == errorCode
         assert r["errmsg"] == errmsg
@@ -451,7 +451,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_unbind']['errmsg']
 
         r = TrackGeofence().geofence_unbind(playload1)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r['errorCode'] == errorCode
         assert r["errmsg"] == errmsg
@@ -470,7 +470,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['geofence_location']['errmsg']
 
         r = TrackGeofence().geofence_location(data)
-        log.info("返回结果为：{}".format(r))
+     #   log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == errorCode
         assert r["errmsg"] == errmsg
@@ -487,7 +487,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['drivingbehavior']['errmsg']
 
         r = TrackGeofence().drivingbehavior(data)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == errorCode
         assert r["errmsg"] == errmsg
@@ -502,7 +502,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['staypoint']['errmsg']
 
         r = TrackGeofence().staypoint(data)
-        log.info("返回结果为：{}".format(r))
+     #   log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == errorCode
         assert r["errmsg"] == errmsg
@@ -518,7 +518,7 @@ class TestXianzong:
         errmsg = Services().geofence_data()['track_match']['errmsg']
 
         r = TrackGeofence().track_match()
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
 
         assert r["errcode"] == errorCode
         assert r["errmsg"] == errmsg
