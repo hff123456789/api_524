@@ -1,0 +1,94 @@
+{
+  "uid" : "f74f0fa84029a42d",
+  "name" : "批量驾车路径规划",
+  "fullName" : "testcase.test_web.TestWebApi#test_driving_batch",
+  "historyId" : "63aefee8d5b2c608868d5f9355150fca",
+  "time" : {
+    "start" : 1657706341132,
+    "stop" : 1657706341296,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "断言",
+      "time" : {
+        "start" : 1657706341296,
+        "stop" : 1657706341296,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ {
+      "uid" : "db1102b93aae67fe",
+      "name" : "{'key': '76984a1ccba04ab8815a87d25f300fa2', 'sign': None, 'origin_lons': '120.221936|120.221935|120.221926', 'origin_lats': '30.215307|30.215308|30.215306', 'origin_coord_types': '1|1|1', 'dest_lons': '120.218065|120.218066|120.218065', 'dest_lats': '30.207679|30.207669|30.207676', 'dest_coord_types': '1|1|1', 'strategys': '0|1|0', 'extensions': '0|0|0', 'code': 0, 'message': 'success'}",
+      "source" : "db1102b93aae67fe.attach",
+      "type" : "text/plain",
+      "size" : 12
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "web服务"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_web"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestWebApi"
+  }, {
+    "name" : "host",
+    "value" : "BJI000-L26S8DL3"
+  }, {
+    "name" : "thread",
+    "value" : "31340-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_web"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f74f0fa84029a42d.json",
+  "parameterValues" : [ ]
+}

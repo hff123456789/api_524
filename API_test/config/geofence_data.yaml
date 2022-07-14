@@ -1,0 +1,175 @@
+circle:
+
+  sid: "#sid#"
+  name: "#name#"
+  desc: 24124
+  center: 120.192028,30.25682
+  radius: 100
+  errorCode: 0
+  errmsg: "OK"
+
+
+polygon:
+  sid: "#sid#"
+  name: "#name#"
+  desc: 22222
+  points: "120.192028,30.25682;150.192028,30.25682;170.192028,50.25682"
+  errorCode: 0
+  errmsg: "OK"
+
+polyline:
+  sid: "#sid#"
+  name: "#name#"
+  desc: 22222
+  points: "116.25663757324219,39.91763621372854;116.24805450439453,39.908682835132836;116.2521743774414,39.90051844052326;116.2679672241211,39.895250572855026;116.28170013427734,39.89446035777916;116.2844467163086,39.89814795018363;116.28547668457031,39.90473244309854;116.28616333007812,39.9121063239703;116.28307342529297,39.91579296675271;116.27586364746094,39.92132255884663;116.26659393310547,39.92263906258135;116.25663757324219,39.91763621372854"
+  bufferradius: 100
+  errorCode: 0
+  errmsg: "OK"
+
+district:
+  sid: "#sid#"
+  name: "#name#"
+  desc: 22222
+  adcode: 330100
+  errorCode: 0
+  errmsg: "OK"
+
+
+updatecircle:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  name: "#name#"
+  desc: 11111
+  center: "120.192028,30.25682"
+  radius: 500
+  errorCode: 0
+  errmsg: "OK"
+
+updatepolygon:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  name: "#name#"
+  desc: 11111
+  points: "120.192028,30.25682;150.192028,30.25682;170.192028,50.25682"
+  errorCode: 0
+  errmsg: "OK"
+
+updatepolyline:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  name: "#name#"
+  desc: 11111
+  points: "120.207134,30.132188;121.207134,30.132188;122.207134,30.132188;120.207134,30.132188"
+  bufferradius: 300
+  errorCode: 0
+  errmsg: "OK"
+
+
+updatedistrict:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  name: "#name#"
+  desc: 11111
+  adcode: 330100
+  errorCode: 0
+  errmsg: "OK"
+
+
+geofence_list:
+  sid: "#sid#"
+
+  outputshape: 1
+  page: 1
+  pagesize: 50
+  errorCode: 0
+  errmsg: "OK"
+
+geofence_delete:
+  sid: "#sid#"
+  gfids: "#gfids#"
+  errorCode: 0
+  errmsg: "OK"
+
+
+geofence_bind:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  tids: "#tids#"
+  errorCode: 0
+  errmsg: "OK"
+
+
+
+geofence_unbind:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  tids: "#tids#"
+  errorCode: 0
+  errmsg: "OK"
+
+
+
+geofence_bindlist:
+
+  sid: "#sid#"
+  gfid: "#gfid#"
+  page: 1
+  pagesize: 50
+  errorCode: 0
+  errmsg: "OK"
+
+
+geofence_terminal:
+
+  sid: "#sid#"
+  tid: "#tid#"
+
+  page: 1
+  pagesize: 50
+  errorCode: 0
+  errmsg: "success"
+
+geofence_location:
+
+  sid: "#sid#"
+  location: "120.192028,30.25682"
+  page: 1
+  pagesize: 50
+  errorCode: 0
+  errmsg: "success"
+
+
+drivingbehavior:
+
+  sid: "#sid#"
+  tid: "#tid#"
+  trid: "#trid#"
+  page: 1
+  pagesize: 50
+  errorCode: 0
+  errmsg: "success"
+
+
+
+staypoint:
+
+  sid: "#sid#"
+  tid: "#tid#"
+  trid: "#trid#"
+  startTime:
+  endTime: null
+  stayRadius: null
+  stayTime: null
+  errorCode: 0
+  errmsg: "success"
+
+track_match:
+
+  errorCode: 0
+  errmsg: "success"

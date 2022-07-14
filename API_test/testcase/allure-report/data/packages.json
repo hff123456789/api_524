@@ -1,0 +1,179 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "testcase.test_web",
+    "children" : [ {
+      "name" : "地理编码",
+      "uid" : "fc0a90d7185026c1",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706339886,
+        "stop" : 1657706340093,
+        "duration" : 207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "逆地理编码",
+      "uid" : "3a9793abcb58c40f",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706340100,
+        "stop" : 1657706340233,
+        "duration" : 133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "关键字搜索",
+      "uid" : "afcefd4cc51ba94e",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706340236,
+        "stop" : 1657706340391,
+        "duration" : 155
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "周边搜索",
+      "uid" : "c3166815a24098db",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "failed",
+      "time" : {
+        "start" : 1657706340396,
+        "stop" : 1657706340705,
+        "duration" : 309
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "多边形搜索",
+      "uid" : "26b499e80d624a12",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706340816,
+        "stop" : 1657706340978,
+        "duration" : 162
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "驾车路径规划",
+      "uid" : "21b144831c448bc9",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706340982,
+        "stop" : 1657706341128,
+        "duration" : 146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "批量驾车路径规划",
+      "uid" : "f74f0fa84029a42d",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706341132,
+        "stop" : 1657706341296,
+        "duration" : 164
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "轨迹纠偏",
+      "uid" : "168e36f56d05424f",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706341300,
+        "stop" : 1657706343138,
+        "duration" : 1838
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "推荐上车点",
+      "uid" : "7e593790d45bf8d2",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706343141,
+        "stop" : 1657706343392,
+        "duration" : 251
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "推荐上车点回源",
+      "uid" : "c3c0a0a8522f27b8",
+      "parentUid" : "67e87feb23bd48e203fef82ffed3b4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1657706343397,
+        "stop" : 1657706343586,
+        "duration" : 189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testcase.test_web"
+  } ],
+  "name" : "packages"
+}

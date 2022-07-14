@@ -1,0 +1,101 @@
+[ {
+  "uid" : "c3c0a0a8522f27b8",
+  "name" : "推荐上车点回源",
+  "time" : {
+    "start" : 1657706343397,
+    "stop" : 1657706343586,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3166815a24098db",
+  "name" : "周边搜索",
+  "time" : {
+    "start" : 1657706340396,
+    "stop" : 1657706340705,
+    "duration" : 309
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f74f0fa84029a42d",
+  "name" : "批量驾车路径规划",
+  "time" : {
+    "start" : 1657706341132,
+    "stop" : 1657706341296,
+    "duration" : 164
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e593790d45bf8d2",
+  "name" : "推荐上车点",
+  "time" : {
+    "start" : 1657706343141,
+    "stop" : 1657706343392,
+    "duration" : 251
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afcefd4cc51ba94e",
+  "name" : "关键字搜索",
+  "time" : {
+    "start" : 1657706340236,
+    "stop" : 1657706340391,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "168e36f56d05424f",
+  "name" : "轨迹纠偏",
+  "time" : {
+    "start" : 1657706341300,
+    "stop" : 1657706343138,
+    "duration" : 1838
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc0a90d7185026c1",
+  "name" : "地理编码",
+  "time" : {
+    "start" : 1657706339886,
+    "stop" : 1657706340093,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a9793abcb58c40f",
+  "name" : "逆地理编码",
+  "time" : {
+    "start" : 1657706340100,
+    "stop" : 1657706340233,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21b144831c448bc9",
+  "name" : "驾车路径规划",
+  "time" : {
+    "start" : 1657706340982,
+    "stop" : 1657706341128,
+    "duration" : 146
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26b499e80d624a12",
+  "name" : "多边形搜索",
+  "time" : {
+    "start" : 1657706340816,
+    "stop" : 1657706340978,
+    "duration" : 162
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
