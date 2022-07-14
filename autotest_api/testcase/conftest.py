@@ -6,7 +6,7 @@ import pytest
 from autotest_api.api_service.services import Services
 from autotest_api.api_service.track_geofence import TrackGeofence
 from autotest_api.base_page.base_api import BaseApi
-from autotest_api.base_page.log1 import log
+#from autotest_api.base_page.log1 import log
 
 
 @pytest.fixture()

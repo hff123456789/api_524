@@ -10,7 +10,7 @@ from autotest_api.api_service.services import Services
 from autotest_api.api_service.track_geofence import TrackGeofence
 from autotest_api.api_service.web_api import Web_api
 
-from autotest_api.base_page.log1 import log
+#from autotest_api.base_page.log1 import log
 
 
 @allure.feature("web服务")
@@ -33,7 +33,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['geo']['code']
         message = Web_api().webapi_data()['geo']['message']
         r=Web_api().geocode(data)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"]==code
           assert r["message"]==message
@@ -46,7 +46,7 @@ class TestWebApi:
         message = Web_api().webapi_data()['regeo']['message']
 
         r=Web_api().regeocode(data)
-        log.info("返回结果为：{}".format(r))
+        #log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
@@ -58,7 +58,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['place_text']['code']
         message = Web_api().webapi_data()['place_text']['message']
         r=Web_api().place_text(data)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
@@ -71,7 +71,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['place_around']['code']
         message = Web_api().webapi_data()['place_around']['message']
         r=Web_api().place_around(data)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
 
         assert r["code"] ==200
         assert r["message"] == message
@@ -84,7 +84,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['place_polygon']['code']
         message = Web_api().webapi_data()['place_polygon']['message']
         r = Web_api().place_polygon(data)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
@@ -96,7 +96,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['driving']['code']
         message = Web_api().webapi_data()['driving']['message']
         r = Web_api().driving(data)
-        log.info("返回结果为：{}".format(r))
+        #log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
@@ -108,7 +108,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['driving_batch']['code']
         message = Web_api().webapi_data()['driving_batch']['message']
         r = Web_api().driving_batch(data)
-        log.info("返回结果为：{}".format(r))
+        #log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
@@ -118,7 +118,7 @@ class TestWebApi:
 
         r = Web_api().grasproad_track()
 
-        log.info("返回结果为：{}".format(r[0]))
+       # log.info("返回结果为：{}".format(r[0]))
         data=r[1]
         allure.attach("用例参数", "{0}".format(data))
         with allure.step("断言"):
@@ -131,7 +131,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['pickupSpot_query']['code']
         message = Web_api().webapi_data()['pickupSpot_query']['message']
         r = Web_api().pickupSpot_query(data)
-        log.info("返回结果为：{}".format(r))
+       # log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
@@ -145,7 +145,7 @@ class TestWebApi:
         code = Web_api().webapi_data()['pickupSpot_callback']['code']
         message = Web_api().webapi_data()['pickupSpot_callback']['message']
         r = Web_api().pickupSpot_callback(data)
-        log.info("返回结果为：{}".format(r))
+      #  log.info("返回结果为：{}".format(r))
         with allure.step("断言"):
           assert r["code"] == code
           assert r["message"] == message
