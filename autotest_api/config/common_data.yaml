@@ -1,7 +1,5 @@
 params:
 
-  key: 76984a1ccba04ab8815a87d25f300fa2  # 3bd78d512ee4436ca2405eb4a123d8c0       #76984a1ccba04ab8815a87d25f300fa2
-  host: http://test-trapi.langgemap   #  host: https://trapi.langgemap.com
+  key: 76984a1ccba04ab8815a87d25f300fa2
+  host: http://test-trapi.langgemap
   webapi_host: http://test-openrouter.langgemap
-#  key: f867fc497865432c83313de0948b7b27
-#   76984a1ccba04ab8815a87d25f300fa2

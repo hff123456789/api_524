@@ -13,13 +13,13 @@ regeo:
   key: "76984a1ccba04ab8815a87d25f300fa2"
   location: "120.218926,30.208273|120.219375,30.208312"
   sign: null
-  poitype: null     #返回附近POI类型（目前暂不支持）
-  extensions: null   #返回结果控制(参数默认取值是 base，也就是返回基本地址信息；extensions 参数取值为 all 时会返回基本地址信息、附近 POI 内容、道路信息以及道路交叉口信息。)
-  radius: null  #搜索半径（radius取值范围在0-1000）单位：米
-  batch: null   #默认false,批量查询控制(batch 参数设置为 true 时进行批量查询操作，最多支持 20 个经纬度点进行批量地址查询操作。batch 参数设置为 false 时进行单点查询，此时即使传入多个经纬度也只返回第一个经纬度的地址解析查询结果。)
-  roadlevel: null  #道路等级（暂无）
-  output: null  #返回数据格式类型	默认json
-  homeorcorp: null     #是否优化POI返回顺序（暂无）
+  poitype: null
+  extensions: null
+  radius: null
+  batch: null
+  roadlevel: null
+  output: null
+  homeorcorp: null
   code: 0
   message: "success"
 
@@ -42,9 +42,9 @@ place_around:
   keyword: "娃哈哈"
   typs: "生活服务|风景名胜"
   location: "116.39392,39.948131"
-  region: "北京" #精确到城市级别的范围控制信息。可输入中文或者编码
-  radius: 3000  #中心点 0-30000 米的搜索范围。默认 3000
-  sortrule: "distance"  #	值为：distance/weight。weight：文本相似度排序；distance：距离排序。默认 distance
+  region: "北京"
+  radius: 3000
+  sortrule: "distance"
   page: 1
   page_size: 10
   code: 0
